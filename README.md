@@ -1,7 +1,7 @@
 # Customer-Segmentation
 This repository contains the code and results for an exploratory data analysis (EDA) of a marketing dataset. The primary objective of this project is to gain insights into customer demographics, behavior, and spending patterns to inform marketing strategies.
 
-Problem Statement
+# Problem Statement
 While going through the analysis, it is vital to have in mind an objective. We will attempt to answer the following questions through Visualization to see if we can find contributing factors to the success of the past campaigns.
 
 Which products are performing best?
