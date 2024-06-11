@@ -17,7 +17,7 @@ What does the costumer segment which accepted the last marketing campaign look l
 
 This repository contains the code and results for an exploratory data analysis (EDA) of a marketing dataset. The primary objective of this project is to gain insights into customer demographics, behavior, and spending patterns to inform marketing strategies.
 
-## Project Overview
+# Project Overview
 
 The dataset includes various attributes related to customers' demographics, enrollment dates, income, and spending habits on different product categories. This project involves the following steps:
 
@@ -35,16 +35,17 @@ The dataset includes various attributes related to customers' demographics, enro
    - Generating and saving plots for data distribution, correlations, spending patterns, and more.
    - Summarizing key findings through visual and statistical representations.
 
-## Tools and Libraries Used
+# Tools and Libraries Used
 
-- **Python:** The primary programming language used for data analysis.
-- **Pandas:** For data manipulation and analysis.
-- **NumPy:** For numerical operations.
-- **Matplotlib and Seaborn:** For data visualization.
-- **Plotly:** For interactive plots and charts.
-- **Jupyter Notebook:** For interactive data analysis and documentation.
+- Python: The primary programming language used for data analysis.
+- Pandas: For data manipulation and analysis.
+- NumPy: For numerical operations.
+- Matplotlib and Seaborn: For data visualization.
+- Plotly: For interactive plots and charts.
+- Jupyter Notebook: For interactive data analysis and documentation.
 
-## Files in the Repository
+
+# Files in the Repository
 
 - `marketing_data.csv`: The original marketing dataset.
 - `cleaned_marketing_data.csv`: The cleaned and preprocessed dataset.
@@ -59,23 +60,23 @@ The dataset includes various attributes related to customers' demographics, enro
 - `product_performance.png`: Bar plot of performance by product categories.
 - `average_customer_demographics.csv`: CSV file summarizing average customer demographics.
 
-## How to Use
+# How to Use
 
 1. Clone the Repository:
    ```bash
    git clone https://github.com/sureshkumar3140/Customer-Segmentation.git
    ```
-2. **Navigate to the Project Directory:**
+2. Navigate to the Project Directory:
    ```bash
    cd marketing-data-eda
    ```
-3. **Run the EDA Script:**
+3. Run the EDA Script:
    Ensure you have all the required libraries installed, then run:
    ```bash
    python eda_script.py
    ```
 
-## License
+# License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
